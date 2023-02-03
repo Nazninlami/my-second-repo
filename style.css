@@ -4,3 +4,11 @@ p{
 h4{
     background-color: blueviolet;
 }
+h2{
+    border-color: blue;
+    padding: 20px;
+    display:inline;
+}
+h1{
+    color: crimson;
+}
